@@ -1,0 +1,1 @@
+Training saves the model checkpoint and tokenizer here under `fine_tuned_bert_model/`. Large model files are excluded from Git by default.\n

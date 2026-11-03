@@ -1,0 +1,1 @@
+Place `user_level_text_dataset_clean.csv` here locally. Required columns: `label` (0/1) and `posts` (JSON-encoded list of post strings per user). Optional: `timestamps`, aligned with posts, and `user_id`. Data files are ignored by Git by default. Do not redistribute without permission and license review.
